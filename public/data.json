@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co.com/PZSP12B/bg-f8f8f8-flat-750x-075-f-pad-750x1000-f8f8f8-u3.jpg",
+    "title": "The Journey Begins",
+    "author": "John Doe",
+    "author_img": "https://example.com/author1.jpg",
+    "posted_date": "2024-09-01",
+    "reading_time": 5,
+    "hashtags": ["#adventure", "#journey", "#beginning"]
+  },
+  {
+    "id": 2,
+    "cover": "https://example.com/cover2.jpg",
+    "title": "The Art of Cooking",
+    "author": "Jane Smith",
+    "author_img": "https://example.com/author2.jpg",
+    "posted_date": "2024-09-05",
+    "reading_time": 8,
+    "hashtags": ["#cooking", "#food", "#recipe"]
+  },
+  {
+    "id": 3,
+    "cover": "https://example.com/cover3.jpg",
+    "title": "Tech Innovations in 2024",
+    "author": "Emily Johnson",
+    "author_img": "https://example.com/author3.jpg",
+    "posted_date": "2024-09-10",
+    "reading_time": 10,
+    "hashtags": ["#technology", "#innovation", "#2024"]
+  },
+  {
+    "id": 4,
+    "cover": "https://example.com/cover4.jpg",
+    "title": "A Guide to Mindfulness",
+    "author": "Michael Lee",
+    "author_img": "https://example.com/author4.jpg",
+    "posted_date": "2024-09-12",
+    "reading_time": 7,
+    "hashtags": ["#mindfulness", "#wellness", "#guide"]
+  },
+  {
+    "id": 5,
+    "cover": "https://example.com/cover5.jpg",
+    "title": "Exploring the Cosmos",
+    "author": "Sophia Williams",
+    "author_img": "https://example.com/author5.jpg",
+    "posted_date": "2024-09-15",
+    "reading_time": 12,
+    "hashtags": ["#space", "#cosmos", "#exploration"]
+  }
+]
