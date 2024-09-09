@@ -9,5 +9,5 @@ export default function Blogs() {
       .then((res) => res.json())
       .then((data) => setBlogs(data));
   }, []);
-  return <div>Blogs</div>;
+  return <div className="w-2/3">Blogs{blogs.length}</div>;
 }
