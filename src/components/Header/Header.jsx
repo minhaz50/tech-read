@@ -2,12 +2,12 @@ import profile from "../../assets/images/profile-1.jpg";
 
 export default function Header() {
   return (
-    <header className="flex justify-between items-center m-6">
+    <header className="flex justify-between items-center p-6">
       <h1>
         <span className=" text-orange-500 font-bold text-2xl tracking-wide">
           TecH
         </span>
-        <span className="text-green-400 text-xl tracking-widest pl-1 font-thin ">
+        <span className="text-black text-xl tracking-widest pl-1 font-thin ">
           read
         </span>
       </h1>
